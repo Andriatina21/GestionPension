@@ -1,0 +1,12 @@
+.ydjgsc{
+    background-color: rgb(78, 78, 78);
+    max-width: 50%;
+    margin: 2vh;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10%;
+    padding: 1vh;
+   justify-content: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 12);
+    display: block;
+}
